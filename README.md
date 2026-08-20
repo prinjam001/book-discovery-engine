@@ -51,3 +51,8 @@ book-recommender-system/
 ├── popular.pkl
 ├── pt.pkl
 └── similarity_scores.pkl
+## 🌐 Live Demo
+
+🚀 **Live Demo:** [Book Recommender System](https://book-recommender-prinjam.streamlit.app/)
+
+Try the live application and get book recommendations based on your selected book.
