@@ -45,9 +45,9 @@ The recommendation system follows these steps:
 book-recommender-system/
 │
 ├── app.py
+├── book-recommender-system.ipynb
 ├── requirements.txt
 ├── books.pkl
 ├── popular.pkl
 ├── pt.pkl
-├── similarity_scores.pkl
-└── README.md
+└── similarity_scores.pkl
