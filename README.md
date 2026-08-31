@@ -1,4 +1,4 @@
-# 📚 Book Recommender System
+# 📚intelligent-book-discovery-engine
 
 A machine learning based **Book Recommendation System** built using Python and Streamlit. The application recommends books based on the user's selected book using a **content-based recommendation approach**.
 
